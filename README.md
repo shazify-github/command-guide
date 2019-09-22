@@ -1,4 +1,4 @@
-# Discord.js Commando Beginner's Guide
+# Commando Guide for Beginners
 
 So I noticed there are very few resources to begin using the Commando command framework for Discord.js. Sure, there are a few tutorials out there, but they don't teach fundamental things such as args or how to properly use Commando's built-in `say`, `embed`, etc. That's what this guide is for. In this guide I will attempt to explain everything in commando from using args to when to use async for your commands. It's the least I can do for the people at Discord.js who helped me greatly on learning how to use it.
 
